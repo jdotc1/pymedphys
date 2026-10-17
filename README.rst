@@ -1,3 +1,13 @@
+.. rubric:: About this fork
+
+This is a development fork of `pymedphys/pymedphys <https://github.com/pymedphys/pymedphys>`__, a community Python library for medical physics. Its library, command-line interface, and selected graphical workflows support tasks such as dose-data comparison, DICOM processing, and analysis of treatment-delivery logs. These tools provide inspectable components for research and locally evaluated workflows.
+
+The fork's `upstream PR #2394 <https://github.com/pymedphys/pymedphys/pull/2394>`__ proposes keeping TRF archive checksum enforcement active under optimized Python. It was open on 17 October 2026 and is tracked on its linked feature branch.
+
+Start with the `official getting-started guide <https://docs.pymedphys.com/en/latest/users/get-started/index.html>`__ for capabilities and installation choices. `Compare the default branch with upstream <https://github.com/jdotc1/pymedphys/compare/pymedphys:main...jdotc1:main>`__. The original beta-status notice, documentation map, citation, and contributor attribution remain below.
+
+.. rubric:: Upstream README
+
 |logo|
 
 .. |logo| image:: https://github.com/pymedphys/pymedphys/raw/ca501275227f190a77e641a75af925d9070952b6/lib/pymedphys/docs/_static/pymedphys_title.svg
